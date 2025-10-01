@@ -1,0 +1,12 @@
+admin
+test
+backup
+config
+development
+temp
+cgi-bin
+login
+upload
+.env
+robots.txt
+sitemap.xml
