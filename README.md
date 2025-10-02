@@ -146,7 +146,7 @@ if __name__ == "__main__":
     main()
 ```
 
-### explanation and Outcome
+### Explanation and Outcome
 The script requires two command-line arguments:
 
 -u or --url: The target website's base URL.
