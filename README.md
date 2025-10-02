@@ -28,7 +28,7 @@ the step-by-step development process for the dir_fuzzer.py tool:
 - Handle Command-Line Arguments: Use argparse to define the target URL and the wordlist file path.
 - Implement Concurrency: Use a ThreadPoolExecutor to handle hundreds or thousands of requests simultaneously to complete the scan quickly.
 - Create the Main Execution Flow: Tie all components together, manage the wordlist processing, and print results clearly.
-- 
+
 ### The Code
 ```python
 import requests
